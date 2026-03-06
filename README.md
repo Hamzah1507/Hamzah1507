@@ -113,6 +113,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamzah1507&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=6e40c9&point=6e40c9&area=true&area_color=6e40c9" width="90%"/>
 </div>
 
----
-
 <div align="center">
