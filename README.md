@@ -1,10 +1,12 @@
 <!-- Header -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&height=160&color=gradient&customColorList=0,2,3,30&text=Mohammed%20Hamzah%20Saiyed&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20|%20AI/ML%20|%20Generative%20AI&descSize=16&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=160&color=0:0d1117,100:6e40c9&animation=fadeIn&text=Mohammed%20Hamzah%20Saiyed&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20|%20AI/ML%20|%20Generative%20AI&descSize=16&descColor=b8bfc7&descAlignY=60" width="100%"/>
+
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=false&width=450&height=25&lines=Building+end-to-end+AI%2FML+systems+%F0%9F%9A%80;Deep+Learning+%C2%B7+Computer+Vision+%C2%B7+NLP;RAG+Pipelines+%C2%B7+LLM+Fine-tuning;Open+to+Data+Science+%2F+AI-ML+roles+%F0%9F%9F%A2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4500&pause=2500&color=58A6FF&center=true&vCenter=true&width=520&height=28&lines=Building+end-to-end+AI%2FML+systems+🚀;Deep+Learning+·+Computer+Vision+·+NLP;RAG+Pipelines+·+LLM+Fine-tuning;Open+to+Data+Science+%2F+AI-ML+roles+🟢)](https://git.io/typing-svg)
+
 
 <a href="https://www.linkedin.com/in/saiyed-hamzah-8371a3285/">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
