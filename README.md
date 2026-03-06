@@ -115,16 +115,8 @@
 
 <div align="center">
 
-<table width="90%" style="border:none;">
-<tr>
-<td align="left" style="border:none;">
 📧 <a href="mailto:hamzah.2004saiyed@gmail.com"><b>hamzah.2004saiyed@gmail.com</b></a>
-</td>
-
-<td align="right" style="border:none;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 🟢 <i>Open to Data Science / AI-ML Opportunities</i>
-</td>
-</tr>
-</table>
 
 </div>
