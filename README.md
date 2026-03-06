@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:6e40c9&height=150&section=header&text=Mohammed%20Hamzah%20Saiyed&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Data%20Scientist%20%7C%20AI%2FML%20%7C%20Generative%20AI&descSize=14&descColor=8b949e&descAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=160&color=gradient&customColorList=0,2,3,30&text=Mohammed%20Hamzah%20Saiyed&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20|%20AI/ML%20|%20Generative%20AI&descSize=16&descAlignY=60" width="100%"/>
 
 <br/>
 
