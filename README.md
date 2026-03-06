@@ -113,10 +113,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamzah1507&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=6e40c9&point=6e40c9&area=true&area_color=6e40c9" width="90%"/>
 </div>
 
-<div style="display:flex; justify-content:space-between; align-items:center;">
-
-<span>📧 <b>hamzah.2004saiyed@gmail.com</b></span>
-
-<span>🟢 <i>Open to Data Science / AI-ML Opportunities</i></span>
-
-</div>
+<table width="90%">
+<tr>
+<td align="left">📧 <b><a href="mailto:hamzah.2004saiyed@gmail.com">hamzah.2004saiyed@gmail.com</a></b></td>
+<td align="right">🟢 <i>Open to Data Science / AI-ML Opportunities</i></td>
+</tr>
+</table>
