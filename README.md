@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=180&section=header&text=Mohammed%20Hamzah&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%2FML%20Engineer%20%7C%20Generative%20AI&descSize=14&descColor=8b949e&descAlignY=55&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=180&section=header&text=Mohammed%20Hamzah%20Saiyed&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Generative%20AI&descSize=14&descColor=8b949e&descAlignY=55&animation=fadeIn"/>
 
 <a href="https://www.linkedin.com/in/saiyed-hamzah-8371a3285/">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
