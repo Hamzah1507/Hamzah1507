@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1500&color=6E40C9&center=true&vCenter=true&multiline=false&width=450&height=25&lines=Building+end-to-end+AI%2FML+systems+%F0%9F%9A%80;Deep+Learning+%C2%B7+Computer+Vision+%C2%B7+NLP;RAG+Pipelines+%C2%B7+LLM+Fine-tuning;Open+to+Data+Science+%2F+AI-ML+roles+%F0%9F%9F%A2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=false&width=450&height=25&lines=Building+end-to-end+AI%2FML+systems+%F0%9F%9A%80;Deep+Learning+%C2%B7+Computer+Vision+%C2%B7+NLP;RAG+Pipelines+%C2%B7+LLM+Fine-tuning;Open+to+Data+Science+%2F+AI-ML+roles+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/saiyed-hamzah-8371a3285/">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
