@@ -112,10 +112,8 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamzah1507&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=6e40c9&point=6e40c9&area=true&area_color=6e40c9" width="90%"/>
 </div>
-📫 hamzah.2004saiyed@gmail.com
-• 🟢 Open to opportunities
+📫 hamzah.2004saiyed@gmail.com • 🟢 Open to opportunities
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:6e40c9&height=8&section=footer" width="100%"/>
 
-</div>
 <div align="center">
