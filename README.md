@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=180&section=header&text=Mohammed%20Hamzah%20Saiyed&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Generative%20AI&descSize=14&descColor=8b949e&descAlignY=55&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=180&section=header&text=Mohammed%20Hamzah%20Saiyed&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%2FML%20%7C%20Generative%20AI&descSize=14&descColor=8b949e&descAlignY=55&animation=fadeIn"/>
 
 <a href="https://www.linkedin.com/in/saiyed-hamzah-8371a3285/">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
@@ -74,12 +74,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Hamzah1507&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&bg_color=0d1117&icon_color=6e40c9&title_color=6e40c9&text_color=8b949e&count_private=true&hide=prs,issues" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzah1507&layout=compact&theme=github_dark&hide_border=true&border_radius=10&bg_color=0d1117&title_color=6e40c9&text_color=8b949e&langs_count=6" height="160"/>
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Hamzah1507&theme=github-dark-blue&hide_border=true&border_radius=10&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9&sideLabels=8B949E&dates=8B949E" width="52%"/>
 
