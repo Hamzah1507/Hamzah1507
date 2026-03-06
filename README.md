@@ -1,9 +1,6 @@
 <!-- Header -->
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=180&section=header&text=Mohammed%20Hamzah&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%2FML%20Engineer%20%7C%20Generative%20AI&descSize=14&descColor=8b949e&descAlignY=55&animation=fadeIn"/>
-
-<br/>
 
 <a href="https://www.linkedin.com/in/saiyed-hamzah-8371a3285/">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
@@ -12,28 +9,21 @@
   <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
 </a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=Hamzah1507&style=for-the-badge&color=6e40c9&label=Profile+Views" height="25"/>
-
 </div>
 
-<br/>
+---
 
-## `> whoami`
+## 🧑‍💻 About Me
 
-```yaml
-name: Hamzah Saiyed
-role: Data Scientist & AI/ML Engineer
-education: Final-year iMSc.IT
-experience: 6+ months hands-on AI/ML internship
-location: India
-status: Open to opportunities
-```
+- 🎓 Final-year **iMSc.IT** student with **6+ months of hands-on AI/ML internship experience**
+- 🔭 I build **end-to-end ML systems** — from raw data to deployed, production-grade models
+- 🧠 Core focus: **Deep Learning** · **Computer Vision** · **NLP/LLMs** · **Generative AI**
+- 🔬 Currently building **RAG pipelines**, fine-tuning **LLMs**, and exploring **multimodal systems**
+- 🏥 Especially interested in **AI for Healthcare**
+- 📍 Based in **India**
+- 🟢 **Open to Data Science / AI-ML roles**
 
-> I build end-to-end ML systems — from raw data to deployed, production-grade models.  
-> Core focus: **Deep Learning** · **Computer Vision** · **NLP/LLMs** · **Generative AI**  
-> Currently building RAG pipelines, fine-tuning LLMs, and exploring multimodal systems.  
-> Especially interested in **AI for Healthcare**.
-
-<br/>
+---
 
 ## 🛠 Tech Stack
 
@@ -69,42 +59,19 @@ status: Open to opportunities
 
 </div>
 
-<br/>
+---
 
 ## 🚀 Featured Projects
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| 🏥 [AI Healthcare Diagnosis](https://github.com/Hamzah1507/AI-Powered-Multimodal-Healthcare-Diagnosis-Clinical-Risk-Prediction-System) | Multimodal clinical risk prediction using deep learning for early diagnosis support | `Python` · `TensorFlow` · `Multimodal ML` |
+| 🖼️ [Image Classification VGG16](https://github.com/Hamzah1507/Image-Classification-using-VGG16) | Transfer learning image classification using VGG16 architecture | `Python` · `Keras` · `OpenCV` |
+| 💊 [MediConnect](https://github.com/Hamzah1507/MediConnect) | Full-stack telemedicine and online pharmacy web application | `Django` · `MySQL` · `REST API` |
 
-[![AI Healthcare](https://github-readme-stats.vercel.app/api/pin/?username=Hamzah1507&repo=AI-Powered-Multimodal-Healthcare-Diagnosis-Clinical-Risk-Prediction-System&theme=github_dark&hide_border=true&border_radius=10&bg_color=0d1117)](https://github.com/Hamzah1507/AI-Powered-Multimodal-Healthcare-Diagnosis-Clinical-Risk-Prediction-System)
+---
 
-</td>
-<td width="50%">
-
-[![MediConnect](https://github-readme-stats.vercel.app/api/pin/?username=Hamzah1507&repo=MediConnect&theme=github_dark&hide_border=true&border_radius=10&bg_color=0d1117)](https://github.com/Hamzah1507/MediConnect)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-[![VGG16](https://github-readme-stats.vercel.app/api/pin/?username=Hamzah1507&repo=Image-Classification-using-VGG16&theme=github_dark&hide_border=true&border_radius=10&bg_color=0d1117)](https://github.com/Hamzah1507/Image-Classification-using-VGG16)
-
-</td>
-<td width="50%">
-
-&nbsp;
-
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -125,8 +92,6 @@ status: Open to opportunities
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamzah1507&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=6e40c9&point=6e40c9&area=true&area_color=6e40c9" width="90%"/>
 </div>
 
-<br/>
-
 ---
 
 <div align="center">
@@ -134,8 +99,6 @@ status: Open to opportunities
 ```
 📫 hamzah.2004saiyed@gmail.com  ·  🟢 Open to opportunities
 ```
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=100&section=footer"/>
 
