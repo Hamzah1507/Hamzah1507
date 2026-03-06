@@ -3,7 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&height=160&color=0:0d1117,100:6e40c9&animation=fadeIn&text=Mohammed%20Hamzah%20Saiyed&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20|%20AI/ML%20|%20Generative%20AI&descSize=16&descColor=b8bfc7&descAlignY=60" width="100%"/>
 
 <br/>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4500&pause=2500&color=58A6FF&center=true&vCenter=true&width=520&height=28&lines=Building+end-to-end+AI%2FML+systems+🚀;Deep+Learning+·+Computer+Vision+·+NLP;RAG+Pipelines+·+LLM+Fine-tuning;Open+to+Data+Science+%2F+AI-ML+roles+🟢)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4500&pause=2500&color=58A6FF&center=true&vCenter=true&width=520&height=28&lines=Building+AI+Systems+·+End-to-End+ML+🚀;Deep+Learning+·+Computer+Vision+·+NLP;RAG+Pipelines+·+LLM+Fine-tuning;Open+to+Data+Science+%2F+AI-ML+roles+🟢)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/saiyed-hamzah-8371a3285/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
@@ -112,11 +113,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamzah1507&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=6e40c9&point=6e40c9&area=true&area_color=6e40c9" width="90%"/>
 </div>
 
-📫 hamzah.2004saiyed@gmail.com
- · 🟢 Open to opportunities
-
- <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:6e40c9&height=8&section=footer" width="100%"/>
-
-</div>
+---
 
 <div align="center">
