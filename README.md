@@ -1,6 +1,10 @@
 <!-- Header -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=180&section=header&text=Mohammed%20Hamzah%20Saiyed&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%2FML%20%7C%20Generative%20AI&descSize=14&descColor=8b949e&descAlignY=55&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:6e40c9&height=150&section=header&text=Mohammed%20Hamzah%20Saiyed&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Data%20Scientist%20%7C%20AI%2FML%20%7C%20Generative%20AI&descSize=14&descColor=8b949e&descAlignY=62" width="100%"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1500&color=6E40C9&center=true&vCenter=true&multiline=false&width=450&height=25&lines=Building+end-to-end+AI%2FML+systems+%F0%9F%9A%80;Deep+Learning+%C2%B7+Computer+Vision+%C2%B7+NLP;RAG+Pipelines+%C2%B7+LLM+Fine-tuning;Open+to+Data+Science+%2F+AI-ML+roles+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/saiyed-hamzah-8371a3285/">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
@@ -19,8 +23,6 @@
 - 🔭 I build **end-to-end ML systems** — from raw data to deployed, production-grade models
 - 🧠 Core focus: **Deep Learning** · **Computer Vision** · **NLP/LLMs** · **Generative AI**
 - 🔬 Currently building **RAG pipelines**, fine-tuning **LLMs**, and exploring **multimodal systems**
-- 🏥 Especially interested in **AI for Healthcare**
-- 📍 Based in **India**
 - 🟢 **Open to Data Science / AI-ML roles**
 
 ---
@@ -94,6 +96,6 @@
 📫 hamzah.2004saiyed@gmail.com  ·  🟢 Open to opportunities
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:6e40c9&height=8&section=footer" width="100%"/>
 
 </div>
