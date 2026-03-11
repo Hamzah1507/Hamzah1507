@@ -145,6 +145,6 @@
 
 📫 <a href="mailto:hamzah.2004saiyed@gmail.com"><b>hamzah.2004saiyed@gmail.com</b></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-🟢 <i>Open to Data Science / AI-ML Opportunities</i>
+🟢 <i>Open to Data Science  / AI-ML Opportunities</i>
 
 </div>
